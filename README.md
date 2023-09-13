@@ -1,7 +1,7 @@
 <h1>Oi, eu sou o Guilherme <img src="https://raw.githubusercontent.com/MiguelMachado-dev/MiguelMachado-dev/master/hi.gif" width="30"></h1>
 <img src="https://komarev.com/ghpvc/?username=GuiiBoss&color=blueviolet" alt="Profile views" /> 
 
-- 💻  Vagabundo Engineer
+- 💻  Software Engineer
 
 - 🔭  Atualmente trabalhando em **casa**
 
