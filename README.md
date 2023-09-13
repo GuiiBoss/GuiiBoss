@@ -21,8 +21,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiiBoss&show_icons=true&theme=nightowl&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Miguel-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Miguel-Js" height="35" width="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/1280px-Valorant_logo_-_pink_color_version.svg.png](https://hermes.dio.me/articles/cover/496931d9-69d6-4956-bb0a-032dd5792ade.png)">
+  <img align="center" alt="C#" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" alt=".net" height="35" width="42" src="https://hermes.dio.me/articles/cover/496931d9-69d6-4956-bb0a-032dd5792ade.png">
 </div>
   
   ##
