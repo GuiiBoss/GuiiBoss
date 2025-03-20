@@ -11,8 +11,6 @@
 
 - 🚀  Meu site pessoal  **Em breve...**
 
-- ✉️  Entre em contato Hello@guiiboss.dev
-
 
 <br>
 
